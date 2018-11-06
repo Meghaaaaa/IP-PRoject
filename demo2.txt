@@ -1,0 +1,5 @@
+{
+"mobile":["9772012896","9873243219","9421237213"],
+"bill":["700","800","600"],
+"email":["megha@gmail.com","Himanshu@gmail.com","Harshil@gmail.com"]
+}

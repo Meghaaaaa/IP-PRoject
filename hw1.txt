@@ -1,0 +1,2 @@
+no duplicate usernames
+password validation

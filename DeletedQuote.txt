@@ -1,0 +1,3 @@
+<!--    <input value="<?php echo $post_category; ?>" type="text" class="form-control" name="post_category_id" id="post_category">-->
+
+    <input value="<?php echo $post_status; ?>" type="text" class="form-control" name="status" id="post_status">

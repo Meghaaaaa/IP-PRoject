@@ -1,0 +1,3 @@
+add user agar admin hoga toh hi dikhna chaiyh warna nahi dikhna chaiyh, 
+register wala button daal do, add user wala form (role me subcriber hi aaega)
+
